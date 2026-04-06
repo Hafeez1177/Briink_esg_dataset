@@ -1,0 +1,31 @@
+Company,Metric,Question,Answer,Value,Unit,Year
+Capri Holdings Ltd,cdp_scope_1_emissions,cdp scope 1 emissions?,4450522 TCo2e,4450522.0,TCo2e,2022
+Capri Holdings Ltd,renewable_energy_percentage,renewable energy percentage?,34.9 %,34.9,%,2022
+Capri Holdings Ltd,health_safety_incidents,health safety incidents?,36 incidents,36.0,incidents,2022
+Nordstrom,cdp_scope_1_emissions,cdp scope 1 emissions?,1379481 TCo2e,1379481.0,TCo2e,2022
+Nordstrom,renewable_energy_percentage,renewable energy percentage?,19.6 %,19.6,%,2022
+Nordstrom,health_safety_incidents,health safety incidents?,95 incidents,95.0,incidents,2022
+Macys,cdp_scope_1_emissions,cdp scope 1 emissions?,3911941 TCo2e,3911941.0,TCo2e,2022
+Macys,renewable_energy_percentage,renewable energy percentage?,93.6 %,93.6,%,2022
+Macys,health_safety_incidents,health safety incidents?,458 incidents,458.0,incidents,2022
+Carrefour SA,cdp_scope_1_emissions,cdp scope 1 emissions?,4970447 TCo2e,4970447.0,TCo2e,2022
+Carrefour SA,renewable_energy_percentage,renewable energy percentage?,37.9 %,37.9,%,2022
+Carrefour SA,health_safety_incidents,health safety incidents?,67 incidents,67.0,incidents,2022
+Foot Locker Inc,cdp_scope_1_emissions,cdp scope 1 emissions?,2998103 TCo2e,2998103.0,TCo2e,2022
+Foot Locker Inc,renewable_energy_percentage,renewable energy percentage?,30.5 %,30.5,%,2022
+Foot Locker Inc,health_safety_incidents,health safety incidents?,397 incidents,397.0,incidents,2022
+Target,cdp_scope_1_emissions,cdp scope 1 emissions?,2327440 TCo2e,2327440.0,TCo2e,2022
+Target,renewable_energy_percentage,renewable energy percentage?,88.4 %,88.4,%,2022
+Target,health_safety_incidents,health safety incidents?,454 incidents,454.0,incidents,2022
+American Eagle Outfitters,cdp_scope_1_emissions,cdp scope 1 emissions?,3931817 TCo2e,3931817.0,TCo2e,2022
+American Eagle Outfitters,renewable_energy_percentage,renewable energy percentage?,55.2 %,55.2,%,2022
+American Eagle Outfitters,health_safety_incidents,health safety incidents?,189 incidents,189.0,incidents,2022
+PepsiCo Inc,cdp_scope_1_emissions,cdp scope 1 emissions?,1673667 TCo2e,1673667.0,TCo2e,2022
+PepsiCo Inc,renewable_energy_percentage,renewable energy percentage?,69.3 %,69.3,%,2022
+PepsiCo Inc,health_safety_incidents,health safety incidents?,97 incidents,97.0,incidents,2022
+Hermes International,cdp_scope_1_emissions,cdp scope 1 emissions?,2426011 TCo2e,2426011.0,TCo2e,2022
+Hermes International,renewable_energy_percentage,renewable energy percentage?,47.3 %,47.3,%,2022
+Hermes International,health_safety_incidents,health safety incidents?,258 incidents,258.0,incidents,2022
+Urban Outfitters,cdp_scope_1_emissions,cdp scope 1 emissions?,1336349 TCo2e,1336349.0,TCo2e,2022
+Urban Outfitters,renewable_energy_percentage,renewable energy percentage?,19.9 %,19.9,%,2022
+Urban Outfitters,health_safety_incidents,health safety incidents?,129 incidents,129.0,incidents,2022

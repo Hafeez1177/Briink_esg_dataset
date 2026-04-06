@@ -1,0 +1,842 @@
+[
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Capri Holdings Ltd",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "4450522 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 4450522,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Capri Holdings Ltd",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "34.9 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 34.9,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Capri Holdings Ltd",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "36 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 36,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Nordstrom",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "1379481 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 1379481,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Nordstrom",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "19.6 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 19.6,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Nordstrom",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "95 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 95,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Macys",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "3911941 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 3911941,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Macys",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "93.6 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 93.6,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Macys",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "458 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 458,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Carrefour SA",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "4970447 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 4970447,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Carrefour SA",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "37.9 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 37.9,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Carrefour SA",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "67 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 67,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Foot Locker Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "2998103 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 2998103,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Foot Locker Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "30.5 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 30.5,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Foot Locker Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "397 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 397,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Target",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "2327440 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 2327440,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Target",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "88.4 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 88.4,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Target",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "454 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 454,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "American Eagle Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "3931817 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 3931817,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "American Eagle Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "55.2 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 55.2,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "American Eagle Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "189 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 189,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "PepsiCo Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "1673667 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 1673667,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "PepsiCo Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "69.3 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 69.3,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "PepsiCo Inc",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "97 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 97,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Hermes International",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "2426011 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 2426011,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Hermes International",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "47.3 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 47.3,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Hermes International",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "258 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 258,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "cdp scope 1 emissions?",
+            "custom_id": "cdp_scope_1_emissions",
+            "data_type": "Metric",
+            "company": "Urban Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "1336349 TCo2e",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "TCo2e",
+                "value": 1336349,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "renewable energy percentage?",
+            "custom_id": "renewable_energy_percentage",
+            "data_type": "Metric",
+            "company": "Urban Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "19.9 %",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "%",
+                "value": 19.9,
+                "time_period": "2022"
+            }
+        ]
+    },
+    {
+        "input": {
+            "question": "health safety incidents?",
+            "custom_id": "health_safety_incidents",
+            "data_type": "Metric",
+            "company": "Urban Outfitters",
+            "file_metas": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "reference_output": {
+            "answer": "129 incidents",
+            "source_documents": [
+                {
+                    "api_key_used": "0AvI8UdqhTQELbvWCOTmagtt"
+                }
+            ]
+        },
+        "structured_data": [
+            {
+                "unit": "incidents",
+                "value": 129,
+                "time_period": "2022"
+            }
+        ]
+    }
+]
